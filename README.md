@@ -67,5 +67,5 @@
 <br><br>
 
 <div align=right>
-<a href="https://github.com/codxexn"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodxexn%2F&count_bg=%23D0ED0E&title_bg=%23DEDEDE&icon=&icon_color=%23E7E7E7&title=hi%2C+there%21&edge_flat=false"/></a>
+<a href="https://github.com/codxexn"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodxexn%2F&count_bg=%23FCB1DE&title_bg=%23D0ED0E&icon=&icon_color=%23E7E7E7&title=%E2%86%91click+here%E2%86%91&edge_flat=false"/></a>
 </div>
