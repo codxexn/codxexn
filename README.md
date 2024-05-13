@@ -8,7 +8,7 @@
   <a href="https://github.com/codxexn">
 	  <img src="https://img.shields.io/badge/codxexn-181717?style=round-square&logo=GitHub&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/DOEUN-b8aa7cb498704c44903cc3181bdbd649">
+  <a href="https://codxeun.notion.site/DOEUN-b8aa7cb498704c44903cc3181bdbd649">
 	  <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/>
   </a>
   <br>
