@@ -47,7 +47,7 @@
 <br><br>
 
 ## 🖥️ Project
-업로드 예정
+[💪 PTever: 피테버 - 자국민 건강 증진 올인원 패키지 플랫폼](https://github.com/codxexn/PTever)
 
 <br><br>
 
