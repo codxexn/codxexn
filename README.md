@@ -47,8 +47,10 @@
 <br><br>
 
 ## 🖥️ Project
-[💪 PTever: 피테버 - 자국민 건강 증진 올인원 패키지 플랫폼](https://github.com/codxexn/PTever)
 
+**[💪 PTever: 피테버 - 자국민 건강 증진 올인원 패키지 플랫폼](https://github.com/codxexn/PTever)**  
+<br>
+**[👩‍⚖️ counseLaw: 카운슬로우 - 법률 자문 커뮤니티](https://github.com/codxexn/counseLaw)**
 <br><br>
 
 ## ⌨️ Skills & 🛠️ Tools
